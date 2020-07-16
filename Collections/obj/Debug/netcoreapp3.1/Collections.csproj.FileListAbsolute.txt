@@ -1,0 +1,13 @@
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

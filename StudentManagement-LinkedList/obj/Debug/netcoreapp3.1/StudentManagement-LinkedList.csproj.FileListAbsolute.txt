@@ -1,0 +1,13 @@
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.exe
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.deps.json
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.runtimeconfig.json
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.runtimeconfig.dev.json
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.dll
+D:\Collections\StudentManagement-LinkedList\bin\Debug\netcoreapp3.1\StudentManagement-LinkedList.pdb
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.csprojAssemblyReference.cache
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.AssemblyInfoInputs.cache
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.AssemblyInfo.cs
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.csproj.CoreCompileInputs.cache
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.dll
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.pdb
+D:\Collections\StudentManagement-LinkedList\obj\Debug\netcoreapp3.1\StudentManagement-LinkedList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.exe
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.deps.json
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.runtimeconfig.json
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.runtimeconfig.dev.json
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.dll
+D:\Collections\RateProduct\bin\Debug\netcoreapp3.1\RateProduct.pdb
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.csprojAssemblyReference.cache
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.AssemblyInfoInputs.cache
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.AssemblyInfo.cs
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.csproj.CoreCompileInputs.cache
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.dll
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.pdb
+D:\Collections\RateProduct\obj\Debug\netcoreapp3.1\RateProduct.genruntimeconfig.cache

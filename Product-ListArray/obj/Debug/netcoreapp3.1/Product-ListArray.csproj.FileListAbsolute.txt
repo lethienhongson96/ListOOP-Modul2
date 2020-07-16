@@ -1,0 +1,13 @@
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.exe
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.deps.json
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.runtimeconfig.json
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.runtimeconfig.dev.json
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.dll
+D:\Collections\Product-ListArray\bin\Debug\netcoreapp3.1\Product-ListArray.pdb
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.csprojAssemblyReference.cache
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.AssemblyInfoInputs.cache
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.AssemblyInfo.cs
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.csproj.CoreCompileInputs.cache
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.dll
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.pdb
+D:\Collections\Product-ListArray\obj\Debug\netcoreapp3.1\Product-ListArray.genruntimeconfig.cache
