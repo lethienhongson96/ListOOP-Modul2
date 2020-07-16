@@ -1,0 +1,13 @@
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.exe
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.deps.json
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.runtimeconfig.json
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.runtimeconfig.dev.json
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.dll
+D:\Collections\ForumRate\bin\Debug\netcoreapp3.1\ForumRate.pdb
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.AssemblyInfoInputs.cache
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.AssemblyInfo.cs
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.csproj.CoreCompileInputs.cache
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.dll
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.pdb
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.genruntimeconfig.cache
+D:\Collections\ForumRate\obj\Debug\netcoreapp3.1\ForumRate.csprojAssemblyReference.cache

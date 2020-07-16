@@ -8,7 +8,7 @@ namespace Product_ListArray
     {
         static void Main(string[] args)
         {
-            var Products = new List<Product_Demo>();
+            List<Product_Demo> Products = new List<Product_Demo>();
             var p = new Product_Demo(2, "IPhone 7", 200, "USA");
             Products.Add(p);
 
@@ -21,7 +21,7 @@ namespace Product_ListArray
             Products.AddRange(arrayProducts);
             Console.WriteLine(Products[1].ToString("name"));
             //tim vi tri cua object theo ten
-            Console.WriteLine(Products[Products.FindIndex(x=>x.Name== "Glaxy 8")]);
+            Console.WriteLine(Products[Products.FindIndex(x => x.Name == "Glaxy 8")]);
             //sap xep theo method mac dinh(theo gia) Sort()
             Products.Sort();
             foreach (Product_Demo product in Products)

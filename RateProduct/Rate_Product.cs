@@ -16,7 +16,7 @@ namespace RateProduct
 
         public override string ToString()
         {
-            return $"name={this.Name} price={this.Price} descrip={this.Desciption} AvgRate={this.AvgRate}";
+            return $"name={Name} price={this.Price} descrip={this.Desciption} AvgRate={this.AvgRate}";
         }
 
         public void SetAvg()
@@ -31,7 +31,7 @@ namespace RateProduct
 
         public int CompareTo([AllowNull] Rate_Product other)
         {
-            return this.Price.CompareTo(other.Price);
+            return Price.CompareTo(other.Price);
         }
     }
 }

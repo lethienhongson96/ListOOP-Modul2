@@ -8,7 +8,7 @@ namespace RateProduct
 {
     class Shop 
     {
-        public List<Rate_Product> products = new List<Rate_Product>();
+        List<Rate_Product> products = new List<Rate_Product>();
         public void AddProduct()
         {
             Rate_Product product = new Rate_Product();
